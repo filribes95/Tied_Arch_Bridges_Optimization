@@ -17,7 +17,7 @@ The study presents an analysis of an existing tied-arch bridge made entirely of 
 
 
 ## Future Directions
-The thesis concludes with suggestions for future research, including API implementation for broader application and multi-objective optimization strategies.
+The thesis concludes with suggestions for future research, including API implementation for broader application and multi-objective optimization strategies. Once a new tied-arch bridge will be redrawn as a finite element model, the user will be able to vary the appropriate values in the Excel files and, finally, optimize the bridge in the Python code.
 
 ## How to Use
 This repository includes the full thesis document, the FEM of the bridge made in Strand7 (.st7), the arch shape and size parametrization made in Excel and the Python code used for the optimization processes.
