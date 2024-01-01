@@ -13,7 +13,8 @@ This repository contains the Master's thesis by Filippo Ribes, titled "Optimizin
 ## Results
 The study presents an analysis of an existing tied-arch bridge made entirely of steel and explores five alternative conceptual designs with varying parameters. It demonstrates the potential for significant CO2 reduction, equal to 6.80% for the most suitable alternative design, and validates the actual quality of the original bridge design. The following flowchart explains how each alternative design is made.
 
-![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/5152fe7f-d34f-461f-ab93-b6b33f0b368f)
+![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/79edd1ce-bac5-4ed6-91ff-54e197139f3f)
+
 
 ## Future Directions
 The thesis concludes with suggestions for future research, including API implementation for broader application and multi-objective optimization strategies.
