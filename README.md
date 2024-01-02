@@ -33,18 +33,3 @@ This repository includes the full thesis document, the FEM of the bridge made in
 
 ## Author
 Filippo Ribes
-
-## Cite
-If you find it useful, please cite it as:
-
-@software{filribes95_2024_10450707,
-  author       = {filribes95},
-  title        = {{filribes95/Tide\_Arch\_Bridges\_Optimization: 
-                   Tide\_Arch\_Bridges\_Optimization\_Release\_1.0.0}},
-  month        = jan,
-  year         = 2024,
-  publisher    = {Zenodo},
-  version      = {1.0.0},
-  doi          = {10.5281/zenodo.10450707},
-  url          = {https://doi.org/10.5281/zenodo.10450707}
-}
