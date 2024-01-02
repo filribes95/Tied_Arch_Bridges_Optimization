@@ -22,7 +22,7 @@ The optimized designs shall not only be cost-effective and environmentally frien
 
 ![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/cad41d02-15c7-4091-bde2-d5b37eda09eb)
 
-![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/c00779ca-ad88-4da7-a035-e3ec78211122)
+![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/2b7c4331-c756-4c40-8259-6c9ac1e7ef10)
 
 ## Conclusion
 This document has presented an optimization process tailored for assessing and optimizing the environmental impact of tied-arch bridges. Central to this process was the calculation of steel quantities used in construction, alongside associated costs and CO2 emissions. Focusing on the arch’s shape and cross-sectional geometries, a real-life existing bridge was analyzed and compared against alternative designs with varied arch configurations. Notably, one of these alternatives achieved a significant maximum saving of 6.80 % compared to the original design. This result not only underscores the high quality of the original design but also validates the feasibility and potential for meaningful optimization in similar case studies.
