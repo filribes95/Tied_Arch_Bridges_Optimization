@@ -1,4 +1,4 @@
-![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/dbee18ba-3f66-4732-9a0e-4e42ddbdd786)# Optimizing Tied-Arch Bridges for Sustainability: A Study on Arch Size and Shape Modification
+# Optimizing Tied-Arch Bridges for Sustainability: A Study on Arch Size and Shape Modification
 [![DOI](https://zenodo.org/badge/736339592.svg)](https://zenodo.org/doi/10.5281/zenodo.10450706)
 
 ## Abstract
