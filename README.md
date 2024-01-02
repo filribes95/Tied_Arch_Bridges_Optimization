@@ -1,7 +1,7 @@
-# Master Thesis: Optimizing Tied-Arch Bridges for Sustainability
+# Optimizing Tied-Arch Bridges for Sustainability: A Study on Arch Size and Shape Modification
 
-## Overview
-This repository contains the Master's thesis by Filippo Ribes, titled "Optimizing Tied-Arch Bridges for Sustainability: A Study on Arch Size and Shape Modification". The thesis focuses on enhancing the environmental sustainability of tied-arch bridges through optimization algorithms and parametric designs to minimize steel usage, costs, and carbon dioxide emissions of their arches, primarily involving the shape and the size of the cross-sectional areas.
+## Abstract
+In a world focused on environmental sustainability, optimizing the design of road bridges not only brings economic advantages but also plays a crucial role in promoting a greener and more environmentally conscious future. Utilizing optimization algorithms and parametric designs is a pivotal key in achieving this objective, allowing us to design infrastructures that are both sustainable and resilient, especially those characterized by a significant amount of carbon dioxide emissions (CO2) like bridges. To address this need, we developed an optimization algorithm that assesses the environmental impact of tied-arch bridges, a common infrastructure type worldwide. Our algorithm focuses on the arch’s geometry, particularly its shape and cross-sections, and it is tailored to road bridges made of steel that are straight and have a deck with constant length and width. To evaluate our system, we studied an existing tied-arch bridge and its arch’s steel usage, cost and CO2 equivalent emissions. In order to formulate an optimization plan, these metrics were then compared with those of five different variations of the same bridge with altered parameters generated with the algorithm. The results of the studied variants confirm the actual design quality of the analyzed bridge, but suggest a non-negligible potential for carbon dioxide reduction of up to 6.80 %.
 
 ## Key Topics
 - Structural design and optimization of tied-arch bridges
@@ -10,20 +10,25 @@ This repository contains the Master's thesis by Filippo Ribes, titled "Optimizin
 - Comparative analysis of bridge designs
 - Environmental impact assessment
 
-## Results
-The study presents an analysis of an existing tied-arch bridge made entirely of steel and explores five alternative conceptual designs with varying parameters. It demonstrates the potential for significant CO2 reduction, equal to 6.80% for the most suitable alternative design, and validates the actual quality of the original bridge design. The following flowchart explains how each alternative design is made.
+## Methods
+The algorithm is employed to optimize the bridge structure through the examination of various alternative designs proposed by minimizing the steel usage, resulting in costs and CO2 emissions reduction. The purpose of our algorithm is not to produce complete designs or accurate estimates of the results; rather, it should point in the right direction and help the designer to quickly find a good solution. To reach this goal, an existing tied-arch bridge was taken as the focus of this study. The following flowchart explains and resume how each alternative design is made.
 
 ![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/79edd1ce-bac5-4ed6-91ff-54e197139f3f)
 
+## Results
+The optimized designs shall not only be cost-effective and environmentally friendly but also feasible and realistic. Therefore, five different scenarios, each characterized by its rise to span ratio (f/l), were proposed to optimize an existing tied-arch bridge and the results, in terms of steel usage, cost, and CO2 emissions, were compared.
 
-## Future Directions
-The thesis concludes with suggestions for future research, including API implementation for broader application and multi-objective optimization strategies. Once a new tied-arch bridge will be redrawn as a finite element model, the user will be able to vary the appropriate values in the Excel files and, finally, optimize the bridge in the Python code.
+![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/da947db8-387d-4a4d-82d5-83c56c20a5ea)
+
+![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/cad41d02-15c7-4091-bde2-d5b37eda09eb)
+
+![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/c00779ca-ad88-4da7-a035-e3ec78211122)
+
+## Conclusion
+This document has presented an optimization process tailored for assessing and optimizing the environmental impact of tied-arch bridges. Central to this process was the calculation of steel quantities used in construction, alongside associated costs and CO2 emissions. Focusing on the arch’s shape and cross-sectional geometries, a real-life existing bridge was analyzed and compared against alternative designs with varied arch configurations. Notably, one of these alternatives achieved a significant maximum saving of 6.80 % compared to the original design. This result not only underscores the high quality of the original design but also validates the feasibility and potential for meaningful optimization in similar case studies.
 
 ## How to Use
 This repository includes the full thesis document, the FEM of the bridge made in Strand7 (.st7), the arch shape and size parametrization made in Excel and the Python code used for the optimization processes.
 
 ## Author
 Filippo Ribes
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
