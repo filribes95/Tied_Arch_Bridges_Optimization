@@ -18,7 +18,7 @@ The algorithm is employed to optimize the bridge structure through the examinati
 ## Results
 The optimized designs shall not only be cost-effective and environmentally friendly but also feasible and realistic. Therefore, five different scenarios, each characterized by its rise to span ratio (f/l), were proposed to optimize an existing tied-arch bridge and the results, in terms of steel usage, cost, and CO2 emissions, were compared.
 
-![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/da947db8-387d-4a4d-82d5-83c56c20a5ea)
+![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/dde6be41-6b3a-4b69-b624-464fbc9e6aa8)
 
 ![immagine](https://github.com/filribes95/Tide_Arch_Bridges_Optimization/assets/141939096/cad41d02-15c7-4091-bde2-d5b37eda09eb)
 
