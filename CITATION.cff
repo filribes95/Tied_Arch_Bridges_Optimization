@@ -1,0 +1,11 @@
+@software{filribes95_2024_10450707,
+  author       = {Filippo Ribes},
+  title        = {{filribes95/Tide\_Arch\_Bridges\_Optimization: 
+                   Tide\_Arch\_Bridges\_Optimization\_Release\_1.0.0}},
+  month        = jan,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.10450707},
+  url          = {https://doi.org/10.5281/zenodo.10450707}
+}
